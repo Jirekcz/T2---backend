@@ -1,0 +1,10 @@
+1;ASR-123;KIA;Sportage;5;26000;Negro
+2;QOK-344;Toyota;Rav;5;2000;Blanco
+3;APL-834;Audi;Rav;5;56000;Azul
+4;ASD-645;BMW;Rav;5;286000;Verde
+5;EQW-945;Briliance;Rav;5;265000;Amarillo
+6;QOK-694;BYD;Rav;5;28000;Violeta
+7;PLL-234;Changan;Rav;5;65000;Naraja
+8;KSL-534;Chery;Rav;5;28900;Marron
+9;TSA-545;Chevrolet;Rav;5;574000;Celeste
+10;ASJ-412;Huyndai;Rav;5;123454;Verde oscuro
