@@ -11,6 +11,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
+// Servicio
 @Service
 public class BuscarServiceImpl implements BuscarService {
 
